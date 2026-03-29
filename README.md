@@ -71,6 +71,8 @@ Esta é a forma mais estável e visual de rodar o projeto:
 
 ---
 
+(não se esqueça de ter o mysql instalado, e mudar o usuario e senha. Ou use o h2 no .properties)
+
 ### 💻 Execução via Terminal (Opção B)
 
 Caso prefira o terminal ou esteja em um ambiente sem interface gráfica:
